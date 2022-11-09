@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module ActionEvent-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="0" />
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="********" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<weighted_methods_per_class_unity value="0" level="0" />
+<weighted_methods_per_class_visibility value="0" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="5" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+</module_detail>
+<procedural_detail>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>ActionEvent</name>
+<client_module>
+<name>addAppointment</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addAppointment.java" line="260" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addAppointment.java" line="264" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addAppointment.java" line="302" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addAppointment.java" line="306" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addAppointment.java" line="312" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addAppointment.java" line="316" />
+</extent>
+<name>addDoctorInfo</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="291" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="312" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="316" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="322" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="326" />
+</extent>
+<name>addMedicine</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addMedicine.java" line="198" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addMedicine.java" line="202" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addMedicine.java" line="232" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addMedicine.java" line="238" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addMedicine.java" line="242" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addMedicine.java" line="246" />
+</extent>
+<name>home</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="home.java" line="109" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="home.java" line="119" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="home.java" line="125" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="home.java" line="131" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="home.java" line="137" />
+</extent>
+<name>login</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="login.java" line="94" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="login.java" line="101" />
+</extent>
+</client_module>
+<supplier_module>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

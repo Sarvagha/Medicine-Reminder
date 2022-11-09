@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module addDoctorInfo-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="296" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="2" />
+<lines_of_code value="69" level="0" />
+<lines_of_code_per_member_function value="********" level="2" />
+<lines_of_code_per_line_of_comment value="4.290" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<weighted_methods_per_class_unity value="8" level="0" />
+<weighted_methods_per_class_visibility value="0" level="0" />
+<depth_of_inheritance_tree value="1" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="7" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="14" />
+<lines_of_code value="29" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="11" level="0" />
+<lines_of_code_per_line_of_comment value="2.636" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>addDoctorInfo()</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="19" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="3" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>initComponents()</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="31" />
+</extent>
+<lines_of_code value="213" level="2" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="30" level="0" />
+<lines_of_code_per_line_of_comment value="7.100" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>jButton1ActionPerformed(ActionEvent)</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="291" />
+</extent>
+<lines_of_code value="17" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="3" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>jButton2ActionPerformed(ActionEvent)</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="316" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="3" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>jButton3ActionPerformed(ActionEvent)</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="326" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="3" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>jTextField1ActionPerformed(ActionEvent)</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="312" />
+</extent>
+<lines_of_code value="2" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="3" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>jTextField5ActionPerformed(ActionEvent)</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="322" />
+</extent>
+<lines_of_code value="2" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="3" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>main(String[])</name>
+<extent>
+<description>definition</description>
+<source_reference file="addDoctorInfo.java" line="336" />
+</extent>
+<lines_of_code value="20" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="10" level="0" />
+<lines_of_code_per_line_of_comment value="2.000" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>addDoctorInfo</name>
+<client_module>
+</client_module>
+<supplier_module>
+<name>ActionEvent</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="291" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="312" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="316" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="322" />
+</extent>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="326" />
+</extent>
+<name>JButton</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="369" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="370" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="371" />
+</extent>
+<name>JFrame</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>extends</description>
+<source_reference file="addDoctorInfo.java" line="14" />
+</extent>
+<name>JInternalFrame</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="372" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="373" />
+</extent>
+<name>JLabel</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="374" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="375" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="376" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="377" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="378" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="379" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="380" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="381" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="382" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="383" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="384" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="385" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="386" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="387" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="388" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="389" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="390" />
+</extent>
+<name>JTextField</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="391" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="392" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="393" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="394" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="395" />
+</extent>
+<name>String</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>normal parameter</description>
+<source_reference file="addDoctorInfo.java" line="336" />
+</extent>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

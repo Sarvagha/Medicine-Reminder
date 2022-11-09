@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module JLabel-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="0" />
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="********" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+<weighted_methods_per_class_unity value="0" level="0" />
+<weighted_methods_per_class_visibility value="0" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="5" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+</module_detail>
+<procedural_detail>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>JLabel</name>
+<client_module>
+<name>addAppointment</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="addAppointment.java" line="385" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addAppointment.java" line="386" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addAppointment.java" line="387" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addAppointment.java" line="388" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addAppointment.java" line="389" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addAppointment.java" line="390" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addAppointment.java" line="391" />
+</extent>
+<name>addDoctorInfo</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="374" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="375" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="376" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="377" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="378" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="379" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="380" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="381" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="382" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="383" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="384" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="385" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="386" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="387" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="388" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="389" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addDoctorInfo.java" line="390" />
+</extent>
+<name>addMedicine</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="addMedicine.java" line="311" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addMedicine.java" line="312" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addMedicine.java" line="313" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addMedicine.java" line="314" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="addMedicine.java" line="315" />
+</extent>
+<name>home</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="home.java" line="184" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="home.java" line="185" />
+</extent>
+<name>login</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>member variable</description>
+<source_reference file="login.java" line="150" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="login.java" line="151" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="login.java" line="152" />
+</extent>
+<extent>
+<description>member variable</description>
+<source_reference file="login.java" line="153" />
+</extent>
+</client_module>
+<supplier_module>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>
